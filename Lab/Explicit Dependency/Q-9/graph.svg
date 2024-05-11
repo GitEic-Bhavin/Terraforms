@@ -1,0 +1,18 @@
+digraph G {
+	graph [bb="0,0,263,36",
+		rankdir=RL
+	];
+	node [fontname="sans-serif",
+		label="\N",
+		shape=rect
+	];
+	"local_file.krill"	[height=0.5,
+		label="local_file.krill",
+		pos="53,18",
+		width=1.4722];
+	"local_file.whale"	[height=0.5,
+		label="local_file.whale",
+		pos="202.5,18",
+		width=1.6806];
+	"local_file.whale" -> "local_file.krill"	[pos="e,106.19,18 141.93,18 133.52,18 124.85,18 116.39,18"];
+}

@@ -1,0 +1,4 @@
+Now add a count argument to create 3 instances of this resource.
+
+
+When ready, run terraform init, plan and apply

@@ -1,0 +1,1 @@
+"This pet name is created by random_pet resource & it's output will display on your screens."
